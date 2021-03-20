@@ -1,3 +1,6 @@
+# Statistical Rethinking (2nd edition)
+Forked the original repository to add text summary of each chapter and to run examples by myself(@hongsups). Also added a new environment yml file to include Jupyter Lab and others.
+
 # PyMC3 Resources
 PyMC3 educational resources, including the PyMC3 port of the following books (original models in STAN/BUGS/JAGS etc,.):
 
